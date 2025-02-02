@@ -5,7 +5,7 @@ This repository contains the analysis of the Titanic dataset using data visualiz
 ## Files 📂
 
 - `Titanic_Dataset.csv`: The raw dataset for the Titanic passengers.
-- `Titanic_Data_Viz.ipynb`: Jupyter Notebook with histograms, scatter plots, and K-means clustering.
+- `Titanic_Data_Viz.ipynb`: Jupyter Notebook with summary, histograms, scatter plots, and K-means clustering.
 
 ## Visualizations 🔍
 
