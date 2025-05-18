@@ -1,4 +1,4 @@
-# 🚢 Titanic-Data-Viz 📊
+# 🚢 Titanic-Data-Viz
 
 This repository contains the analysis of the Titanic dataset using data visualization and clustering techniques.  
 Additionally, a custom implementation of K-Means clustering from scratch is also included.
